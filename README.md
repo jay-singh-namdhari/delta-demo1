@@ -1,2 +1,3 @@
 # delta-demo1
-this is 
+this is a demo class for git
+
